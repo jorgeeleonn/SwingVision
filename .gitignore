@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+src/security_*.png
+data/cards/real/
+results/partB_security/
+src/partB_security.ipynb

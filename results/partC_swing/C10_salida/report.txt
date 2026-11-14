@@ -1,0 +1,45 @@
+Nota: 7.7 / 10   (23 bien, 5 a mejorar, 5 mal)
+P1 address
+   manos (horizontal): bien
+   manos (altura): bien
+   inclinación del cuerpo: bien
+P2 palo horizontal (subida)
+   manos (horizontal): bien
+   manos (altura): bien
+   cabeza (horizontal): bien
+   cabeza (altura): bien
+   desplazamiento lateral: bien
+   inclinación del cuerpo: bien
+P4 cima
+   manos (horizontal): mal (22.6 cm más a la izquierda)
+   manos (altura): a mejorar (9.1 cm más bajas)
+   cabeza (horizontal): bien
+   cabeza (altura): bien
+   giro del palo: mal (15.3 grados menos giro)
+   desplazamiento lateral: a mejorar (5.1 cm más a la izquierda)
+   inclinación del cuerpo: bien
+P6 palo horizontal (bajada)
+   manos (horizontal): mal (10.5 cm más a la izquierda)
+   manos (altura): a mejorar (7.0 cm más altas)
+   cabeza (horizontal): bien
+   cabeza (altura): bien
+   desplazamiento lateral: bien
+   inclinación del cuerpo: bien
+P7 impacto
+   manos (horizontal): bien
+   manos (altura): bien
+   cabeza (horizontal): bien
+   cabeza (altura): bien
+   giro del palo: bien
+   desplazamiento lateral: bien
+   inclinación del cuerpo: bien
+Swing completo
+   tempo: a mejorar (2.1 frente a 2.6, subida más rápida)
+   velocidad de las manos: mal (6.0 m/s más lentas)
+   velocidad del palo: mal (18.4 m/s más lento)
+   velocidad máxima: a mejorar (13.3 ms antes)
+Prioridades
+   1. velocidad del palo: 18.4 m/s más lento (z = 6.1)
+   2. velocidad de las manos: 6.0 m/s más lentas (z = 6.0)
+   3. P4 manos (horizontal): 22.6 cm más a la izquierda (z = 4.7)
+El fallo empieza en P4 (manos (horizontal): 22.6 cm más a la izquierda)
